@@ -14,9 +14,9 @@ svg:not(:root).svg-inline--fa {
   .svg-inline--fa.fa-lg {
     vertical-align: -.225em; }
   .svg-inline--fa.fa-w-1 {
-    width: 0.0625em; }
+    width: 0.5em; }
   .svg-inline--fa.fa-w-2 {
-    width: 0.125em; }
+    width: 1em; }
   .svg-inline--fa.fa-w-3 {
     width: 0.1875em; }
   .svg-inline--fa.fa-w-4 {
@@ -303,9 +303,9 @@ svg:not(:root).svg-inline--fa {
 
 .fa-stack {
   display: inline-block;
-  height: 2em;
+  height: 1em;
   position: relative;
-  width: 2.5em; }
+  width: 1em; }
 
 .fa-stack-1x,
 .fa-stack-2x {
@@ -317,12 +317,12 @@ svg:not(:root).svg-inline--fa {
   top: 0; }
 
 .svg-inline--fa.fa-stack-1x {
-  height: 1em;
-  width: 1.25em; }
+  height: .5em;
+  width: 1em; }
 
 .svg-inline--fa.fa-stack-2x {
-  height: 2em;
-  width: 2.5em; }
+  height: 1em;
+  width: 1em; }
 
 .fa-inverse {
   color: #fff; }
